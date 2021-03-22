@@ -1,0 +1,28 @@
+{
+  "name": "playwright_one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "UI_one.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanNenashev/playwright_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanNenashev/playwright_test/issues"
+  },
+  "homepage": "https://github.com/IvanNenashev/playwright_test#readme",
+  "dependencies": {
+    "playwright": "^1.9.2"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.19.0",
+    "@typescript-eslint/parser": "^4.19.0",
+    "eslint": "^7.22.0"
+  }
+}
